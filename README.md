@@ -11,7 +11,7 @@ This is a simple credit card number validator in JavaScript
 
 ### Dependencies
 
-* There are no prerequisites, libraries, OS version, etc., needed before installing program.
+* Program Requires Node.js for Execution.
 
 ### Installing
 
